@@ -29,7 +29,6 @@ CREATE TABLE "City" (
     "country_code" char(2)   NOT NULL,
     "city_de" char(30)   NOT NULL,
     "country_en" char(50)   NOT NULL,
-    "country_de" char(50)   NOT NULL,
     "population" integer   NOT NULL,
     "latitude" numeric(3,6)   NOT NULL,
     "longitude" numeric(3,6)   NOT NULL,
