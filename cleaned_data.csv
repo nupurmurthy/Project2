@@ -1,0 +1,340 @@
+Country code,Country Name,Continent,Capital,Country Population,Area,Coastline,Government form,Currency,Birthrate,Deathrate,City Name,City Population,Latitude,Longitude,Region
+AF,Afghanistan,Asia,Kabul,37172386,652860,0,Presidential islamic republic,Afghani,33.2,6.6,Kabul,3678000,34.52813,69.17233,Kabul
+EG,Egypt,Africa,Cairo,98423595,1001450,2450,Presidential republic,Egypt Pound,27.1,5.9,Cairo,9500000,30.06263,31.249670000000002,Muhafazat al Qahirah
+EG,Egypt,Africa,Cairo,98423595,1001450,2450,Presidential republic,Egypt Pound,27.1,5.9,Alexandria,4546000,31.215640000000004,29.955270000000002,Alexandria
+EG,Egypt,Africa,Cairo,98423595,1001450,2450,Presidential republic,Egypt Pound,27.1,5.9,Giza,3628100,30.00808,31.210929999999998,Al Jizah
+DZ,Algeria,Africa,Algiers,42228429,2381740,998,Presidential republic,Algerian Dinar,24.8,4.7,Algiers,3415800,36.7525,3.04197,Alger
+AO,Angola,Africa,Luanda,30809762,1246700,1600,Presidential republic,Kwanza,41.3,8.4,Luanda,2825300,-8.83682,13.23432,Luanda
+AR,Argentina,South America,Buenos Aires,44494502,2780400,4989,Presidential republic,Argentine Peso,17.2,7.6,Buenos Aires,2890200,-34.61315,-58.377230000000004,Buenos Aires F.D.
+AR,Argentina,South America,Buenos Aires,44494502,2780400,4989,Presidential republic,Argentine Peso,17.2,7.6,Córdoba,1330000,-31.4135,-64.18105,Cordoba
+AR,Argentina,South America,Buenos Aires,44494502,2780400,4989,Presidential republic,Argentine Peso,17.2,7.6,Rosario,1193600,-32.94682,-60.63932,Santa Fe
+AM,Armenia,Asia,Yerevan,2951776,29740,0,Semi-presidential republic,Dram,14.3,9.9,Yerevan,1075800,40.18111,44.51361,Yerevan
+AZ,Azerbaijan,Asia,Baku,9942334,86600,0,Presidential republic,Manat,14.6,5.8,Baku,3202300,40.37767,49.89201,Baki
+ET,Ethiopia,Africa,Addis Ababa,109224559,1104300,0,Federal parliamentary republic,Birr,32.8,6.7,Addis Ababa,3352000,9.02497,38.74689,Adis Abeba
+AU,Australia,Australia,Canberra,24992369,7741220,25760,Parliamentary democracy (under constitutional monarchy),Australian Dollar,12.4,6.5,Melbourne,4269100,-37.814,144.96331999999998,Victoria
+AU,Australia,Australia,Canberra,24992369,7741220,25760,Parliamentary democracy (under constitutional monarchy),Australian Dollar,12.4,6.5,Perth,2043100,-31.952240000000003,115.8614,Western Australia
+AU,Australia,Australia,Canberra,24992369,7741220,25760,Parliamentary democracy (under constitutional monarchy),Australian Dollar,12.4,6.5,Adelaide,1276700,-34.92866,138.59863,South Australia
+AU,Australia,Australia,Canberra,24992369,7741220,25760,Parliamentary democracy (under constitutional monarchy),Australian Dollar,12.4,6.5,Brisbane,1162200,-27.467940000000002,153.02809,Queensland
+BD,Bangladesh,Asia,Dhaka,161356039,147630,580,Parliamentary republic,Taka,18.5,5.5,Dhaka,14543100,23.7104,90.40744000000001,Dhaka
+BD,Bangladesh,Asia,Dhaka,161356039,147630,580,Parliamentary republic,Taka,18.5,5.5,Chittagong,2581600,22.3384,91.83168,Chittagong
+BD,Bangladesh,Asia,Dhaka,161356039,147630,580,Parliamentary republic,Taka,18.5,5.5,Khulna,1500000,22.80979,89.56439,Khulna
+BY,Belarus,Europe,Minsk,9485386,207600,0,Presidential republic (in fact a dictatorship),Belarus Rubel,10.8,12.6,Minsk,1921800,53.9,27.566670000000002,Minsk
+BE,Belgium,Europe,Brussels,11422068,30530,67,Federal parliamentary republic (under constitutional monarchy),Euro,10.5,9.6,Brussels,1175200,50.85045,4.3487800000000005,Brussels Capital
+BO,Bolivia,South America,Sucre,11353142,1098580,0,Presidential republic,Boliviano,22.1,6.8,Santa Cruz de la Sierra,1640600,-17.78629,-63.181169999999995,Santa Cruz
+BR,Brazil,South America,Brasília,209469333,8515770,7491,Federal presidential republic,Real,14.1,6.4,São Paulo,12038200,-23.5475,-46.636109999999995,São Paulo
+BR,Brazil,South America,Brasília,209469333,8515770,7491,Federal presidential republic,Real,14.1,6.4,Rio de Janeiro,6453700,-22.90278,-43.2075,Rio de Janeiro
+BR,Brazil,South America,Brasília,209469333,8515770,7491,Federal presidential republic,Real,14.1,6.4,Salvador,2902900,-12.971110000000001,-38.51083,Bahia
+BR,Brazil,South America,Brasília,209469333,8515770,7491,Federal presidential republic,Real,14.1,6.4,Fortaleza,2609700,-3.7172199999999997,-38.54306,Ceará
+BR,Brazil,South America,Brasília,209469333,8515770,7491,Federal presidential republic,Real,14.1,6.4,Brasília,2570200,-15.779720000000001,-47.92972,Federal District
+BR,Brazil,South America,Brasília,209469333,8515770,7491,Federal presidential republic,Real,14.1,6.4,Belo Horizonte,2502600,-19.92083,-43.93778,Minas Gerais
+BR,Brazil,South America,Brasília,209469333,8515770,7491,Federal presidential republic,Real,14.1,6.4,Manaus,2130300,-3.1019400000000004,-60.025,Amazonas
+BR,Brazil,South America,Brasília,209469333,8515770,7491,Federal presidential republic,Real,14.1,6.4,Curitiba,1879400,-25.42778,-49.27306,Paraná
+BR,Brazil,South America,Brasília,209469333,8515770,7491,Federal presidential republic,Real,14.1,6.4,Recife,1633700,-8.053889999999999,-34.88111,Pernambuco
+BR,Brazil,South America,Brasília,209469333,8515770,7491,Federal presidential republic,Real,14.1,6.4,Porto Alegre,1481000,-30.03306,-51.23,Rio Grande do Sul
+BR,Brazil,South America,Brasília,209469333,8515770,7491,Federal presidential republic,Real,14.1,6.4,Goiânia,1448600,-16.67861,-49.253890000000006,Goiás
+BR,Brazil,South America,Brasília,209469333,8515770,7491,Federal presidential republic,Real,14.1,6.4,Belém,1439600,-1.45583,-48.50444,Pará
+BR,Brazil,South America,Brasília,209469333,8515770,7491,Federal presidential republic,Real,14.1,6.4,Guarulhos,1324800,-23.46278,-46.53333,São Paulo
+BR,Brazil,South America,Brasília,209469333,8515770,7491,Federal presidential republic,Real,14.1,6.4,Campinas,1164100,-22.90556,-47.060829999999996,São Paulo
+BR,Brazil,South America,Brasília,209469333,8515770,7491,Federal presidential republic,Real,14.1,6.4,Maceió,1021700,-9.66583,-35.735279999999996,Alagoas
+BR,Brazil,South America,Brasília,209469333,8515770,7491,Federal presidential republic,Real,14.1,6.4,São Luís,1011900,-2.52972,-44.30278,Maranhão
+BG,Bulgaria,Europe,Sofia,7024216,111000,354,Parliamentary republic,Bulgarian Lev,9.0,15.5,Sofia,1260100,42.69751,23.32415,Sofia-Capital
+BF,Burkina Faso,Africa,Ouagadougou,19751535,274220,0,Presidential republic,West African Franc,38.4,8.3,Ouagadougou,2388700,12.36566,-1.53388,Centre
+CL,Chile,South America,Santiago,18729160,756700,6435,Presidential republic,Chilean Peso,12.7,6.1,Santiago,4325600,-33.45694,-70.64827,Santiago Metropolitan
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Shanghai,24152700,31.22222,121.45806,Shanghai Shi
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Beijing,21700000,39.9075,116.39723000000001,Beijing
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Tianjin,12784000,39.14222,117.17667,Tianjin Shi
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Shenzhen,11908400,22.54554,114.0683,Guangdong
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Guangzhou,10641400,23.116670000000003,113.25,Guangdong
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Nanjing,8335000,32.06167,118.77778,Jiangsu Sheng
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Chongqing,8165500,29.56278,106.55278,Chongqing Shi
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Wuhan,7541500,30.58333,114.26666999999999,Hubei
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Xi’an,7391000,34.25833,108.92861,Shaanxi
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Dongguan,7271300,23.04889,113.74472,Guangdong
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Foshan,6771900,23.026770000000003,113.13148000000001,Guangdong
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Shenyang,5718200,41.79222,123.43278000000001,Liaoning
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Hangzhou,5162100,30.29365,120.16141999999999,Zhejiang Sheng
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Chengdu,4741900,30.66667,104.06667,Sichuan
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Harbin,4596300,45.75,126.65,Heilongjiang Sheng
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Jinan,4340000,36.66833,116.99722,Shandong Sheng
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Suzhou,4330000,31.30408,120.59538,Jiangsu Sheng
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Zhengzhou,4253600,34.75778,113.64861,Henan Sheng
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Xiamen,4010000,24.479789999999998,118.08187,Fujian
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Qingdao,3990900,36.06605,120.36939,Shandong Sheng
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Dalian,3964600,38.91222,121.60221999999999,Liaoning
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Shantou,3644000,23.36814,116.71479,Guangdong
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Changsha,3617500,28.19874,112.97086999999999,Hunan
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Kunming,3583400,25.03889,102.71833000000001,Yunnan
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Changchun,3530100,43.88,125.32278000000001,Jilin Sheng
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Ningbo,3491600,29.878190000000004,121.54945,Zhejiang Sheng
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Taiyuan,3426500,37.869440000000004,112.56028,Shanxi Sheng
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Changzhou,3290900,31.773590000000002,119.95401000000001,Jiangsu Sheng
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Shijiazhuang,3195900,38.04139,114.47861,Hebei
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Tangshan,3187200,39.63333,118.18333,Hebei
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Zibo,3129200,36.79056,118.06333000000001,Shandong Sheng
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Hefei,3098700,31.86389,117.28083000000001,Anhui Sheng
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Nanchang,2935000,28.68396,115.85306000000001,Jiangxi Sheng
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Fuzhou,2921800,26.06139,119.30611,Fujian
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Ürümqi,2681800,43.800959999999996,87.60046,Xinjiang Uygur Zizhiqu
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Guiyang,2520100,26.58333,106.71667,Guizhou Sheng
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Lanzhou,2438600,36.05701,103.83986999999999,Gansu Sheng
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Wuxi,2394700,31.56887,120.28856999999999,Jiangsu Sheng
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Baotou,2096900,40.65222,109.82222,Inner Mongolia
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Luoyang,1584500,34.683609999999994,112.45361000000001,Henan Sheng
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Anshan,1529900,41.12361,122.99,Liaoning
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Jilin,1469700,43.85083,126.56028,Jilin Sheng
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Zhongshan,1423000,21.31992,110.5723,Guangdong
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Fushun,1410000,41.85583,123.92333,Liaoning
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Datong,1362300,40.09361,113.29138999999999,Shanxi Sheng
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Huainan,1238500,32.62639,116.99694,Anhui Sheng
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Xinyang,1230000,32.12278,114.06556,Henan Sheng
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Jieyang,1226800,23.5418,116.36581000000001,Guangdong
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Tai’an,1123500,36.18528,117.12,Shandong Sheng
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Zhucheng,1086200,35.995020000000004,119.40258999999999,Shandong Sheng
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Changshu City,1047700,31.64615,120.74221000000001,Jiangsu Sheng
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Baoding,1038200,38.85111,115.49028,Hebei
+CN,China,Asia,Beijing,1392730000,9562910,14500,People's republic (communist 	one-party system),Renminbi Yuan,12.4,7.1,Benxi,1011400,41.28861,123.765,Liaoning
+DK,Denmark,Europe,Copenhagen,5797446,42920,7314,Parliamentary constitutional monarchy,Danish Krone,10.6,8.2,Copenhagen,1295700,55.675940000000004,12.56553,Hovedstaden
+CD,Democratic Republic of the Congo,Africa,Kinshasa,84068091,2344860,37,Semi-presidential republic,Congolais Franc,41.7,9.7,Kinshasa,10125000,-4.32758,15.31357,Kinshasa
+CD,Democratic Republic of the Congo,Africa,Kinshasa,84068091,2344860,37,Semi-presidential republic,Congolais Franc,41.7,9.7,Lubumbashi,1794100,-11.66089,27.47938,Katanga
+DE,Germany,Europe,Berlin,82927922,357580,2389,Federal parliamentary republic,Euro,9.5,11.3,Berlin,3748100,52.517669999999995,13.405538,Berlin
+DE,Germany,Europe,Berlin,82927922,357580,2389,Federal parliamentary republic,Euro,9.5,11.3,Hamburg,1810400,53.550678000000005,9.99697,Hamburg
+DE,Germany,Europe,Berlin,82927922,357580,2389,Federal parliamentary republic,Euro,9.5,11.3,Munich,1464300,48.143439,11.573599,Bavaria
+DE,Germany,Europe,Berlin,82927922,357580,2389,Federal parliamentary republic,Euro,9.5,11.3,Cologne,1075900,50.938107,6.957068,North Rhine-Westphalia
+EC,Ecuador,South America,Quito,17084357,256370,2237,Presidential republic,US Dollar,20.0,5.1,Guayaquil,3500000,-2.2058400000000002,-79.90795,Guayas
+EC,Ecuador,South America,Quito,17084357,256370,2237,Presidential republic,US Dollar,20.0,5.1,Quito,2239200,-0.22985,-78.52495,Pichincha
+CI,Ivory Coast,Africa,Yamoussoukro,25069229,322460,515,Presidential republic,West African Franc,36.0,10.3,Abidjan,4395200,5.30966,-4.0126599999999994,Lagunes
+FR,France,Europe,Paris,66987244,549087,3427,Semi-presidential republic,Euro,11.4,9.0,Paris,2220400,48.85341,2.3488,Île-de-France
+GE,Georgia,Asia,Tbilisi,3731000,69700,310,Semi-presidential republic,Georgian Lari,13.7,12.9,Tbilisi,1108700,41.694109999999995,44.83368,T'bilisi
+GH,Ghana,Africa,Accra,29767108,238540,539,Presidential republic,Ghana Cedi,29.8,7.4,Accra,2291400,5.556019999999999,-0.1969,Greater Accra
+GH,Ghana,Africa,Accra,29767108,238540,539,Presidential republic,Ghana Cedi,29.8,7.4,Kumasi,2069400,6.68848,-1.6244299999999998,Ashanti
+GT,Guatemala,Central America,Guatemala City,17247807,108890,400,Presidential republic,Quetzal,24.9,4.8,Guatemala City,2110100,14.640720000000002,-90.51326999999999,Guatemala
+GN,Guinea,Africa,Conakry,12414318,245860,320,Presidential republic,Guinea Franc,36.8,8.7,Camayenne,1871200,9.535,-13.687779999999998,Conakry
+GN,Guinea,Africa,Conakry,12414318,245860,320,Presidential republic,Guinea Franc,36.8,8.7,Conakry,1661000,9.53795,-13.67729,Conakry
+HN,Honduras,Central America,Tegucigalpa,9587522,112490,669,Presidential republic,Lempira,21.9,4.4,Tegucigalpa,1157500,14.0818,-87.20681,Francisco Morazán
+HK,Hong Kong,Asia,Hong Kong,7451000,1110,733,Presidential limited democracy (special administrative region of China),Hong Kong Dollar,7.7,6.3,Kowloon,2241300,22.316670000000002,114.18333,Kowloon City
+HK,Hong Kong,Asia,Hong Kong,7451000,1110,733,Presidential limited democracy (special administrative region of China),Hong Kong Dollar,7.7,6.3,Hong Kong,1253400,22.28552,114.15768999999999,
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Mumbai,12442400,19.07283,72.88261,Maharashtra
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Delhi,11034600,28.65195,77.23149000000001,NCT
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Bangalore,8443700,12.97194,77.59369000000001,Karnataka
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Chennai,7088000,13.08784,80.27847,Tamil Nadu
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Hyderabad,6810000,17.38405,78.45636,Telangana
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Ahmedabad,5570600,23.02579,72.58726999999999,Gujarat
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Kolkata,4496700,22.56263,88.36304,West Bengal
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Surat,4467800,21.19594,72.83023,Gujarat
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Pune,3124500,18.51957,73.85535,Maharashtra
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Jaipur,3073400,26.919620000000002,75.78781,Rajasthan
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Lucknow,2817100,26.83928,80.92313,Uttar Pradesh
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Kanpur,2765300,26.4478,80.34626999999999,Uttar Pradesh
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Patna,2695000,25.602220000000003,85.11936,Bihar
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Nagpur,2497900,21.14631,79.08491,Maharashtra
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Ghaziabad,2381500,28.66535,77.43915,Uttar Pradesh
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Indore,1992400,22.71792,75.8333,Madhya Pradesh
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Thane,1886900,19.197039999999998,72.96355,Maharashtra
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Bhopal,1745300,23.25469,77.40289,Madhya Pradesh
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Visakhapatnam,1730300,17.68009,83.20161,Andhra Pradesh
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Pimpri-Chinchwad,1729300,18.62292,73.80696,Maharashtra
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Vadodara,1666700,22.29941,73.20812,Gujarat
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Ludhiana,1618900,30.91204,75.85379,Punjab
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Coimbatore,1601400,11.00555,76.96611999999999,Tamil Nadu
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Agra,1585700,27.183329999999998,78.01666999999999,Uttar Pradesh
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Nashik,1486100,19.99727,73.79096,Maharashtra
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Teni,1468000,10.015310000000001,77.482,Tamil Nadu
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Faridabad,1414100,28.411240000000003,77.31316,Haryana
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Meerut,1309000,28.98002,77.70636,Uttar Pradesh
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Rajkot,1287000,22.291610000000002,70.79321999999999,Gujarat
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Dombivli,1246400,19.21667,73.08333,Maharashtra
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Kalyan,1246400,19.2437,73.13554,Maharashtra
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Varanasi,1198500,25.316679999999998,83.01041,Uttar Pradesh
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Srinagar,1180600,34.08842,74.80298,Kashmir
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Aurangabad,1175100,19.877570000000002,75.34226,Maharashtra
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Allahabad,1168400,25.44894,81.83329,Uttar Pradesh
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Amritsar,1159200,31.636609999999997,74.87476,Punjab
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Haora,1072200,22.57688,88.31857,West Bengal
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Jabalpur,1055000,23.166970000000003,79.95006,Madhya Pradesh
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Jodhpur,1033800,26.26841,73.00594,Rajasthan
+IN,India,Asia,New Delhi,1352617328,3287259,7000,Federal parliamentary republic,Indian Rupee,18.1,7.2,Madurai,1017900,9.91735,78.11962,Tamil Nadu
+ID,Indonesia,Asia,Jakarta,267663435,1913580,54716,Presidential republic,Idonesian Rupiah,18.4,6.4,Jakarta,10042200,-6.21462,106.84513000000001,Jakarta Raya
+ID,Indonesia,Asia,Jakarta,267663435,1913580,54716,Presidential republic,Idonesian Rupiah,18.4,6.4,Surabaya,2843100,-7.2491699999999994,112.75083000000001,East Java
+ID,Indonesia,Asia,Jakarta,267663435,1913580,54716,Presidential republic,Idonesian Rupiah,18.4,6.4,Bandung,2575500,-6.90389,107.61861,West Java
+ID,Indonesia,Asia,Jakarta,267663435,1913580,54716,Presidential republic,Idonesian Rupiah,18.4,6.4,Bekasi,2511000,-6.2349,106.9896,West Java
+ID,Indonesia,Asia,Jakarta,267663435,1913580,54716,Presidential republic,Idonesian Rupiah,18.4,6.4,Medan,2497200,3.58333,98.66667,North Sumatra
+ID,Indonesia,Asia,Jakarta,267663435,1913580,54716,Presidential republic,Idonesian Rupiah,18.4,6.4,Semarang,2067300,-6.9932,110.4203,Central Java
+ID,Indonesia,Asia,Jakarta,267663435,1913580,54716,Presidential republic,Idonesian Rupiah,18.4,6.4,Tangerang,2001900,-6.178059999999999,106.63,Banten
+ID,Indonesia,Asia,Jakarta,267663435,1913580,54716,Presidential republic,Idonesian Rupiah,18.4,6.4,Depok,1869700,-6.4,106.81861,West Java
+ID,Indonesia,Asia,Jakarta,267663435,1913580,54716,Presidential republic,Idonesian Rupiah,18.4,6.4,Palembang,1562000,-2.91673,104.7458,South Sumatra
+ID,Indonesia,Asia,Jakarta,267663435,1913580,54716,Presidential republic,Idonesian Rupiah,18.4,6.4,Makassar,1469600,-5.14,119.4221,South Sulawesi
+ID,Indonesia,Asia,Jakarta,267663435,1913580,54716,Presidential republic,Idonesian Rupiah,18.4,6.4,South Tangerang,1436200,-6.28862,106.71789,Banten
+ID,Indonesia,Asia,Jakarta,267663435,1913580,54716,Presidential republic,Idonesian Rupiah,18.4,6.4,Bogor,1022000,-6.59444,106.78917,West Java
+IQ,Iraq,Asia,Baghdad,38433600,435052,58,Federal parliamentary republic,Iraqi Dinar,29.7,4.8,Baghdad,8765000,33.340579999999996,44.40088,Mayorality of Baghdad
+IQ,Iraq,Asia,Baghdad,38433600,435052,58,Federal parliamentary republic,Iraqi Dinar,29.7,4.8,Al Basrah,2150000,30.53302,47.797470000000004,Basra Governorate
+IR,Iran,Asia,Tehran,81800269,1745150,2440,Islamic Republic,Iranian Rial,19.0,4.8,Tehran,8846800,35.694390000000006,51.42151,Tehran
+IR,Iran,Asia,Tehran,81800269,1745150,2440,Islamic Republic,Iranian Rial,19.0,4.8,Mashhad,3312100,36.31559,59.56796,Razavi Khorasan
+IR,Iran,Asia,Tehran,81800269,1745150,2440,Islamic Republic,Iranian Rial,19.0,4.8,Karaj,1973500,35.83266,50.99155,Alborz
+IR,Iran,Asia,Tehran,81800269,1745150,2440,Islamic Republic,Iranian Rial,19.0,4.8,Isfahan,1961300,32.65246,51.674620000000004,Isfahan
+IR,Iran,Asia,Tehran,81800269,1745150,2440,Islamic Republic,Iranian Rial,19.0,4.8,Shiraz,1869000,29.61031,52.531130000000005,Fars
+IR,Iran,Asia,Tehran,81800269,1745150,2440,Islamic Republic,Iranian Rial,19.0,4.8,Tabriz,1558700,38.08,46.2919,East Azerbaijan
+IT,Italy,Europe,Rome,60431283,301340,7600,Parliamentary republic,Euro,7.6,10.7,Rome,2873500,41.89193,12.511330000000001,Latium
+IT,Italy,Europe,Rome,60431283,301340,7600,Parliamentary republic,Euro,7.6,10.7,Milano,1368600,45.46427,9.18951,Lombardei
+JP,Japan,Asia,Tokyo,126529100,377970,29751,Parliamentary constitutional monarchy,Japanese Yen,7.6,10.8,Tokyo,9508800,35.6895,139.69171,Tokyo
+JP,Japan,Asia,Tokyo,126529100,377970,29751,Parliamentary constitutional monarchy,Japanese Yen,7.6,10.8,Yokohama,3731700,35.44778,139.6425,Kanagawa
+JP,Japan,Asia,Tokyo,126529100,377970,29751,Parliamentary constitutional monarchy,Japanese Yen,7.6,10.8,Osaka,2713200,34.693740000000005,135.50218,Osaka
+JP,Japan,Asia,Tokyo,126529100,377970,29751,Parliamentary constitutional monarchy,Japanese Yen,7.6,10.8,Nagoya,2283300,35.181470000000004,136.90641000000002,Aichi
+JP,Japan,Asia,Tokyo,126529100,377970,29751,Parliamentary constitutional monarchy,Japanese Yen,7.6,10.8,Sapporo,1947100,43.064170000000004,141.34695,Hokkaido
+JP,Japan,Asia,Tokyo,126529100,377970,29751,Parliamentary constitutional monarchy,Japanese Yen,7.6,10.8,Fukuoka,1567200,33.606390000000005,130.41806,Fukuoka
+JP,Japan,Asia,Tokyo,126529100,377970,29751,Parliamentary constitutional monarchy,Japanese Yen,7.6,10.8,Kobe,1536500,34.6913,135.183,Hyogo
+JP,Japan,Asia,Tokyo,126529100,377970,29751,Parliamentary constitutional monarchy,Japanese Yen,7.6,10.8,Kawasaki,1496000,35.520559999999996,139.71722,Kanagawa
+JP,Japan,Asia,Tokyo,126529100,377970,29751,Parliamentary constitutional monarchy,Japanese Yen,7.6,10.8,Kyoto,1474700,35.02107,135.75385,Kyoto
+JP,Japan,Asia,Tokyo,126529100,377970,29751,Parliamentary constitutional monarchy,Japanese Yen,7.6,10.8,Saitama,1290000,35.90807,139.65657,Saitama
+JP,Japan,Asia,Tokyo,126529100,377970,29751,Parliamentary constitutional monarchy,Japanese Yen,7.6,10.8,Hiroshima,1196300,34.39627,132.45937,Hiroshima
+JP,Japan,Asia,Tokyo,126529100,377970,29751,Parliamentary constitutional monarchy,Japanese Yen,7.6,10.8,Sendai,1063100,38.26889,140.87195,Miyagi
+JP,Japan,Asia,Tokyo,126529100,377970,29751,Parliamentary constitutional monarchy,Japanese Yen,7.6,10.8,Sendai,1063100,38.25759,140.8667,Miyagi
+YE,Yemen,Asia,Sanaa,28498687,527970,1906,republic,Jemen Rial,31.0,6.0,Sanaa,1937500,15.35472,44.20667,Sanaa
+JO,Jordan,Asia,Amman,9956011,89320,26,Parliamentary constitutional monarchy,Jordanian Dinar,22.6,3.8,Amman,1812100,31.95522,35.945029999999996,Amman
+KH,Cambodia,Asia,Phnom Penh,16249798,181040,443,Parliamentary constitutional monarchy,Riel,22.9,6.0,Phnom Penh,1501700,11.56245,104.91601000000001,Phnom Penh
+CM,Cameroon,Africa,Yaoundé,25216237,475440,402,Presidential republic,Central African Franc,35.9,9.5,Douala,2446900,4.04827,9.70428,Littoral
+CM,Cameroon,Africa,Yaoundé,25216237,475440,402,Presidential republic,Central African Franc,35.9,9.5,Yaoundé,2440500,3.8666699999999996,11.51667,Centre
+CA,Canada,North America,Ottawa,37058856,9984670,202080,Federal parliamentary republic (under constitutional monarchy),Canadian Dollar,10.3,7.5,Toronto,2731600,43.700109999999995,-79.4163,Ontario
+CA,Canada,North America,Ottawa,37058856,9984670,202080,Federal parliamentary republic (under constitutional monarchy),Canadian Dollar,10.3,7.5,Montréal,1704700,45.50884,-73.58781,Quebec
+CA,Canada,North America,Ottawa,37058856,9984670,202080,Federal parliamentary republic (under constitutional monarchy),Canadian Dollar,10.3,7.5,Calgary,1239200,51.05011,-114.08528999999999,Alberta
+KZ,Kazakhstan,Asia,Nursultan,18276499,2724902,0,Presidential republic,Tenge,21.6,7.2,Almaty,1797400,43.25654,76.92848000000001,Almaty Qalasy
+KZ,Kazakhstan,Asia,Nursultan,18276499,2724902,0,Presidential republic,Tenge,21.6,7.2,Nursultan,1029600,51.1801,71.44598,Astana Qalasy
+QA,Qatar,Asia,Doha,2781677,11610,563,Absolute monarchy,Qatari Rial,9.7,1.2,Doha,1351000,25.279320000000002,51.52245,Baladiyat ad Dawhah
+KE,Kenya,Africa,Nairobi,51393010,580370,536,Presidential republic,Kenian Schilling,29.3,5.6,Nairobi,4004400,-1.2833299999999999,36.81667,Nairobi Area
+CO,Colombia,South America,Bogotá,49648685,1141749,3208,Presidential republic,Colombian Peso,15.1,5.5,Bogotá,8080700,4.60971,-74.08175,Bogota D.C.
+CO,Colombia,South America,Bogotá,49648685,1141749,3208,Presidential republic,Colombian Peso,15.1,5.5,Medellín,2441100,6.2518400000000005,-75.56359,Antioquia
+CO,Colombia,South America,Bogotá,49648685,1141749,3208,Presidential republic,Colombian Peso,15.1,5.5,Cali,2400700,3.4372199999999995,-76.5225,Valle del Cauca
+CO,Colombia,South America,Bogotá,49648685,1141749,3208,Presidential republic,Colombian Peso,15.1,5.5,Barranquilla,1148500,10.968539999999999,-74.78132,Atlántico
+CU,Cuba,Central America,Havana,11338138,109880,3735,Republic (communist one-party system),Cuban Peso,10.4,8.8,Havana,2106100,23.133020000000002,-82.38304000000001,La Habana
+KW,Kuwait,Asia,Kuwait City,4137309,17820,499,constitutional monarchy,Kuwaiti Dinar,14.7,2.6,Kuwait City,2779000,29.36972,47.97833,Al Asimah
+LR,Liberia,Africa,Monrovia,4818977,111370,579,Presidential republic,Liberian Dollar,33.4,7.7,Monrovia,1011000,6.30054,-10.7969,Montserrado
+LY,Libya,Africa,Tripoli,6678567,1759540,1770,Republic (transitional government after dictatorship),Libyan Dinar,19.4,5.1,Tripoli,1126000,32.87519,13.18746,Tripoli
+MG,Madagascar,Africa,Antananarivo,26262368,587295,4828,Semi-presidential republic,Malagasy Ariary,32.9,6.2,Antananarivo,1816000,-18.91368,47.53613,Analamanga
+MW,Malawi,Africa,Lilongwe,18143315,118480,0,Presidential republic,Kwacha,34.6,6.8,Lilongwe,1077100,-13.966920000000002,33.78725,Central Region
+MY,Malaysia,Asia,Kuala Lumpur,31528585,330345,4675,Federal constitutional monarchy,Ringgit,16.9,5.0,Kuala Lumpur,1768000,3.1412,101.68653,Kuala Lumpur
+ML,Mali,Africa,Bamako,19077690,1240190,0,Semi-presidential republic,West African Franc,42.1,10.0,Bamako,1809100,12.65,-8.0,Bamako
+MA,Morocco,Africa,Rabat,36029138,446550,1835,Parliamentary constitutional monarchy,Moroccan Dirham,19.4,5.1,Casablanca,5117800,33.58831,-7.6113800000000005,Grand Casablanca
+MA,Morocco,Africa,Rabat,36029138,446550,1835,Parliamentary constitutional monarchy,Moroccan Dirham,19.4,5.1,Fès,1112100,34.03715,-4.9998,Fès-Boulemane
+MX,Mexico,Central America,Mexico City,126190788,1964375,9330,Federal presidential republic,Mexican Peso,17.9,5.9,Mexico City,8918700,19.42847,-99.12765999999999,Mexico City
+MX,Mexico,Central America,Mexico City,126190788,1964375,9330,Federal presidential republic,Mexican Peso,17.9,5.9,Ecatepec,1656100,19.61725,-99.06600999999999,México
+MX,Mexico,Central America,Mexico City,126190788,1964375,9330,Federal presidential republic,Mexican Peso,17.9,5.9,Tijuana,1641600,32.5027,-117.00371000000001,Baja California
+MX,Mexico,Central America,Mexico City,126190788,1964375,9330,Federal presidential republic,Mexican Peso,17.9,5.9,Puebla,1576300,19.04334,-98.20193,Puebla
+MX,Mexico,Central America,Mexico City,126190788,1964375,9330,Federal presidential republic,Mexican Peso,17.9,5.9,Guadalajara,1495200,20.66682,-103.39182,Jalisco
+MX,Mexico,Central America,Mexico City,126190788,1964375,9330,Federal presidential republic,Mexican Peso,17.9,5.9,León,1454800,21.13052,-101.671,Guanajuato
+MX,Mexico,Central America,Mexico City,126190788,1964375,9330,Federal presidential republic,Mexican Peso,17.9,5.9,Ciudad Juárez,1321000,31.73333,-106.48333000000001,Chihuahua
+MX,Mexico,Central America,Mexico City,126190788,1964375,9330,Federal presidential republic,Mexican Peso,17.9,5.9,Gustavo A. Madero,1185800,22.8694,-98.75886,Tamaulipas
+MX,Mexico,Central America,Mexico City,126190788,1964375,9330,Federal presidential republic,Mexican Peso,17.9,5.9,Zapopan,1142500,20.72356,-103.38479,Jalisco
+MX,Mexico,Central America,Mexico City,126190788,1964375,9330,Federal presidential republic,Mexican Peso,17.9,5.9,Monterrey,1131000,25.67507,-100.31846999999999,Nuevo León
+MX,Mexico,Central America,Mexico City,126190788,1964375,9330,Federal presidential republic,Mexican Peso,17.9,5.9,Nezahualcóyotl,1110600,19.40061,-99.01483,México
+MN,Mongolia,Asia,Ulaanbaatar,3170208,1564120,0,Semi-presidential republic,Tugrik,24.8,6.3,Ulaanbaatar,1463000,47.907709999999994,106.88323999999999,Ulaanbaatar
+MZ,Mozambique,Africa,Maputo,29495962,786380,2470,Presidential republic,Metical,37.9,9.0,Maputo,1766200,-25.965529999999998,32.583220000000004,Maputo City
+MM,Burma,Asia,Nay Pyi Taw,53708395,676590,1930,Parliamentary republic,Kyat,17.7,8.2,Rangoon,4728500,16.80528,96.15611,Yangon
+MM,Burma,Asia,Nay Pyi Taw,53708395,676590,1930,Parliamentary republic,Kyat,17.7,8.2,Mandalay,1726900,21.974729999999997,96.08359,Mandalay
+NZ,New Zealand,Australia,Wellington,4885500,267710,15134,Parliamentary democracy (under constitutional monarchy),New Zealand Dollar,12.4,7.0,Auckland,1415600,-36.86667,174.76667,Auckland
+NI,Nicaragua,Central America,Managua,6465513,130370,910,Presidential republic,Córdoba Oro,21.1,5.0,Managua,1033600,12.132819999999999,-86.2504,Managua
+NE,Niger,Africa,Niamey,22442948,1267000,0,Semi-presidential republic,West African Franc,46.5,8.5,Niamey,1302900,13.51366,2.1098,Niamey
+NG,Nigeria,Africa,Abuja,195874740,923770,853,Federal presidential republic,Naira,38.4,12.1,Lagos,14234000,6.45407,3.3946699999999996,Lagos
+NG,Nigeria,Africa,Abuja,195874740,923770,853,Federal presidential republic,Naira,38.4,12.1,Ibadan,5509100,7.377560000000001,3.90591,Oyo
+NG,Nigeria,Africa,Abuja,195874740,923770,853,Federal presidential republic,Naira,38.4,12.1,Kano,2828900,12.000119999999999,8.51672,Kano
+NG,Nigeria,Africa,Abuja,195874740,923770,853,Federal presidential republic,Naira,38.4,12.1,Benin City,1495800,6.33815,5.62575,Edo
+NG,Nigeria,Africa,Abuja,195874740,923770,853,Federal presidential republic,Naira,38.4,12.1,Abuja,1235900,9.05785,7.495080000000001,Abuja Federal Capital Territory
+KP,North Korea,Asia,Pyongyang,25549819,120540,2495,People's republic (communist 	one-party system),Won,13.9,9.0,Pyongyang,3222000,39.03385,125.75431999999999,Pyongyang
+AT,Austria,Europe,Vienna,8847037,83879,0,Federal parliamentary republic,Euro,10.0,9.5,Vienna,1867600,48.208490000000005,16.37208,Vienna
+PK,Pakistan,Asia,Islamabad,212215030,796100,1046,Federal parliamentary republic,Pakistanian Rupee,28.6,7.0,Karachi,13052000,24.9056,67.0822,Sindh
+PK,Pakistan,Asia,Islamabad,212215030,796100,1046,Federal parliamentary republic,Pakistanian Rupee,28.6,7.0,Lahore,10052000,31.54972,74.34361,Punjab
+PK,Pakistan,Asia,Islamabad,212215030,796100,1046,Federal parliamentary republic,Pakistanian Rupee,28.6,7.0,Faisalabad,3203800,31.41667,73.08333,Punjab
+PK,Pakistan,Asia,Islamabad,212215030,796100,1046,Federal parliamentary republic,Pakistanian Rupee,28.6,7.0,Gujranwala,2723000,32.16167,74.18831,Punjab
+PK,Pakistan,Asia,Islamabad,212215030,796100,1046,Federal parliamentary republic,Pakistanian Rupee,28.6,7.0,Rawalpindi,2098200,33.6007,73.0679,Punjab
+PK,Pakistan,Asia,Islamabad,212215030,796100,1046,Federal parliamentary republic,Pakistanian Rupee,28.6,7.0,Islamabad,2006600,33.72148,73.04329,Islamabad
+PK,Pakistan,Asia,Islamabad,212215030,796100,1046,Federal parliamentary republic,Pakistanian Rupee,28.6,7.0,Hyderabad,2000000,25.39242,68.37366,Sindh
+PK,Pakistan,Asia,Islamabad,212215030,796100,1046,Federal parliamentary republic,Pakistanian Rupee,28.6,7.0,Peshawar,1970000,34.008,71.57849,Khyber Pakhtunkhwa
+PK,Pakistan,Asia,Islamabad,212215030,796100,1046,Federal parliamentary republic,Pakistanian Rupee,28.6,7.0,Multan,1566900,30.195559999999997,71.47528,Punjab
+PE,Peru,South America,Lima,31989256,1285220,2414,Presidential republic,Nuevo Sol,18.1,5.4,Lima,10852200,-12.04318,-77.02824,Lima
+PH,Philippines,Asia,Manila,106651922,300000,36289,Presidential republic,Philippine Peso,21.0,5.8,Quezon City,2936100,14.6488,121.0509,Metro Manila
+PH,Philippines,Asia,Manila,106651922,300000,36289,Presidential republic,Philippine Peso,21.0,5.8,Manila,1780100,14.6042,120.9822,Metro Manila
+PH,Philippines,Asia,Manila,106651922,300000,36289,Presidential republic,Philippine Peso,21.0,5.8,Davao,1633000,7.073060000000001,125.61278,Davao
+PL,Poland,Europe,Warsaw,37978548,312680,440,Parliamentary republic,Zloty,10.6,10.6,Warsaw,1764600,52.22977,21.011779999999998,Masovia
+CG,Republic of the Congo,Africa,Brazzaville,5244363,342000,169,Presidential republic,Congolais Franc,33.4,6.8,Brazzaville,1827000,-4.26613,15.283179999999998,Brazzaville
+RO,Romania,Europe,Bucharest,19473936,238400,225,Semi-presidential republic,Leu,9.7,13.3,Bucharest,2106100,44.43225,26.10626,Bucuresti
+RU,Russia,Europe,Moscow,144478050,17098250,37653,Federal republic,Russian Rubel,12.9,12.9,Moscow,13197600,55.752219999999994,37.615559999999995,Moscow
+RU,Russia,Europe,Moscow,144478050,17098250,37653,Federal republic,Russian Rubel,12.9,12.9,Saint Petersburg,5323300,59.93863,30.31413,St.-Petersburg
+RU,Russia,Europe,Moscow,144478050,17098250,37653,Federal republic,Russian Rubel,12.9,12.9,Novosibirsk,1612800,55.0415,82.9346,Novosibirsk
+RU,Russia,Europe,Moscow,144478050,17098250,37653,Federal republic,Russian Rubel,12.9,12.9,Yekaterinburg,1488800,56.8519,60.6122,Sverdlovsk
+RU,Russia,Europe,Moscow,144478050,17098250,37653,Federal republic,Russian Rubel,12.9,12.9,Nizhniy Novgorod,1259000,56.328669999999995,44.00205,Nizjnij Novgorod
+RU,Russia,Europe,Moscow,144478050,17098250,37653,Federal republic,Russian Rubel,12.9,12.9,Kazan,1217000,55.788740000000004,49.12214,Tatarstan
+RU,Russia,Europe,Moscow,144478050,17098250,37653,Federal republic,Russian Rubel,12.9,12.9,Samara,1171600,53.20007,50.15,Samara
+RU,Russia,Europe,Moscow,144478050,17098250,37653,Federal republic,Russian Rubel,12.9,12.9,Chelyabinsk,1156200,55.154019999999996,61.42915,Chelyabinsk
+RU,Russia,Europe,Moscow,144478050,17098250,37653,Federal republic,Russian Rubel,12.9,12.9,Omsk,1154100,54.99244,73.36859,Omsk
+RU,Russia,Europe,Moscow,144478050,17098250,37653,Federal republic,Russian Rubel,12.9,12.9,Rostov-na-Donu,1125000,47.23135,39.723279999999995,Rostov
+RU,Russia,Europe,Moscow,144478050,17098250,37653,Federal republic,Russian Rubel,12.9,12.9,Ufa,1121400,54.74306,55.96779,Bashkortostan
+RU,Russia,Europe,Moscow,144478050,17098250,37653,Federal republic,Russian Rubel,12.9,12.9,Krasnoyarsk,1083900,56.018390000000004,92.86717,Krasnoyarskiy
+RU,Russia,Europe,Moscow,144478050,17098250,37653,Federal republic,Russian Rubel,12.9,12.9,Perm,1051600,58.010459999999995,56.25017,Perm
+RU,Russia,Europe,Moscow,144478050,17098250,37653,Federal republic,Russian Rubel,12.9,12.9,Volgograd,1021200,48.719390000000004,44.50183,Volgograd
+ZM,Zambia,Africa,Lusaka,17351822,752610,0,Presidential republic,Zambian Kwacha,36.7,6.6,Lusaka,1743000,-15.40669,28.287129999999998,Lusaka
+SA,Saudi Arabia,Asia,Riyadh,33699947,2149690,2640,Absolute monarchy,Saudi Rial,18.3,3.4,Riyadh,6506700,24.68773,46.72185,Ar Riyad
+SA,Saudi Arabia,Asia,Riyadh,33699947,2149690,2640,Absolute monarchy,Saudi Rial,18.3,3.4,Jeddah,3976000,21.542379999999998,39.19797,Makkah
+SA,Saudi Arabia,Asia,Riyadh,33699947,2149690,2640,Absolute monarchy,Saudi Rial,18.3,3.4,Mecca,1675400,21.42664,39.82563,Makkah
+SA,Saudi Arabia,Asia,Riyadh,33699947,2149690,2640,Absolute monarchy,Saudi Rial,18.3,3.4,Medina,1183200,24.46861,39.61417,Al Madinah al Munawwarah
+SN,Senegal,Africa,Dakar,15854360,196710,531,Presidential republic,West African Franc,35.1,5.8,Dakar,1146100,14.6937,-17.44406,Dakar
+RS,Serbia,Europe,Belgrade,6982084,88360,0,Parliamentary republic,Serbian Dinar,9.2,14.8,Belgrade,1166800,44.80401,20.46513,Central Serbia
+SL,Sierra Leone,Africa,Freetown,7650154,72300,402,Presidential republic,Leone,33.9,12.0,Freetown,1050000,8.484,-13.22994,Western Area
+ZW,Zimbabwe,Africa,Harare,14439018,390760,0,Semi-presidential republic,Zimbabwe Dollar,31.7,8.0,Harare,1606000,-17.827720000000003,31.05337,Harare
+SG,Singapore,Asia,Singapore,5638676,719,193,Parliamentary republic,Singapore Dollar,8.9,5.0,Singapore,5607300,1.28967,103.85007,
+SO,Somalia,Africa,Mogadishu,15008154,637660,3025,Federal parliamentary republic,Somalian Shilling,41.9,11.1,Mogadishu,2425000,2.0371099999999998,45.34375,Banaadir
+ES,Spain,Europe,Madrid,46723749,505935,4964,Parliamentary constitutional monarchy,Euro,8.4,9.0,Madrid,3183000,40.4165,-3.70256,Madrid
+ES,Spain,Europe,Madrid,46723749,505935,4964,Parliamentary constitutional monarchy,Euro,8.4,9.0,Barcelona,1604600,41.38879,2.15899,Catalonia
+ZA,South Africa,Africa,Pretoria,57779622,1219090,2798,Parliamentary republic,South African Rand,20.9,9.5,Johannesburg,4434800,-26.202270000000002,28.04363,Gauteng
+ZA,South Africa,Africa,Pretoria,57779622,1219090,2798,Parliamentary republic,South African Rand,20.9,9.5,Cape Town,3740000,-33.92584,18.42322,Western Cape
+SD,Sudan,Africa,Khartoum,41801533,1879358,853,Presidential republic,Sudanese Pound,32.5,7.3,Omdurman,2395200,15.64453,32.47773,Khartoum
+SD,Sudan,Africa,Khartoum,41801533,1879358,853,Presidential republic,Sudanese Pound,32.5,7.3,Khartoum,1974600,15.551770000000001,32.53241,Khartoum
+KR,South Korea,Asia,Seoul,51635256,100339,2413,Presidential republic,Won,7.0,5.6,Seoul,10290000,37.566,126.9784,Seoul
+KR,South Korea,Asia,Seoul,51635256,100339,2413,Presidential republic,Won,7.0,5.6,Busan,3525900,35.102779999999996,129.04028,Busan
+KR,South Korea,Asia,Seoul,51635256,100339,2413,Presidential republic,Won,7.0,5.6,Incheon,3011100,37.45646,126.70515,Incheon
+KR,South Korea,Asia,Seoul,51635256,100339,2413,Presidential republic,Won,7.0,5.6,Daegu,2501700,35.87028,128.59111000000001,Daegu
+KR,South Korea,Asia,Seoul,51635256,100339,2413,Presidential republic,Won,7.0,5.6,Daejeon,1512200,36.32139,127.41972,Daejeon
+KR,South Korea,Asia,Seoul,51635256,100339,2413,Presidential republic,Won,7.0,5.6,Gwangju,1477800,35.154720000000005,126.91556000000001,Gwangju
+KR,South Korea,Asia,Seoul,51635256,100339,2413,Presidential republic,Won,7.0,5.6,Suwon,1170900,37.291109999999996,127.00889,Gyeonggi-do
+KR,South Korea,Asia,Seoul,51635256,100339,2413,Presidential republic,Won,7.0,5.6,Ulsan,1166600,35.53722,129.31667,Ulsan
+KR,South Korea,Asia,Seoul,51635256,100339,2413,Presidential republic,Won,7.0,5.6,Goyang,1073100,37.65639,126.835,Gyeonggi-do
+SY,Syria,Asia,Damascus,16906283,185180,193,Presidential republic,Syrian Pound,24.1,5.6,Aleppo,1800000,36.201240000000006,37.16117,Aleppo
+SY,Syria,Asia,Damascus,16906283,185180,193,Presidential republic,Syrian Pound,24.1,5.6,Damascus,1711000,33.5102,36.29128,Dimashq
+TW,Taiwan,Asia,Taipei,23545963,35980,1566,Semi-presidential republic,New Taiwan Dollar,0.0,0.0,Taichung,2787100,24.1469,120.6839,Taiwan
+TW,Taiwan,Asia,Taipei,23545963,35980,1566,Semi-presidential republic,New Taiwan Dollar,0.0,0.0,Kaohsiung,2778900,22.61626,120.31333000000001,Kaohsiung
+TW,Taiwan,Asia,Taipei,23545963,35980,1566,Semi-presidential republic,New Taiwan Dollar,0.0,0.0,Taipei,2705000,25.04776,121.53185,Taipei
+TZ,Tanzania,Africa,Dodoma,56318348,947300,1424,Presidential republic,Tansanian Shilling,37.1,6.6,Dar es Salaam,4364500,-6.82349,39.26951,Dar es Salaam
+TH,Thailand,Asia,Bangkok,69428524,513120,3219,Constitutional monarchy (interim military-government since May 2014),Thai Baht,10.5,7.6,Bangkok,5686600,13.753979999999999,100.50144,Bangkok
+TD,Chad,Africa,N'Djamena,15477751,1284000,0,Presidential republic,Central African Franc,42.7,12.3,N'Djamena,1092100,12.10672,15.0444,Chari-Baguirmi
+CZ,Czechia,Europe,Prague,10625695,78870,0,Parliamentary republic,Czech Krone,10.8,10.5,Prague,1301100,50.08804,14.420760000000001,Praha
+TN,Tunisia,Africa,Tunis,11565204,163610,1148,Parliamentary republic,Tunesian Dinar,18.0,6.3,Tunis,1056200,36.81897,10.16579,Tunis
+TR,Turkey,Asia,Ankara,82319724,785350,7200,Parliamentary republic,Turkish Lira,16.3,5.4,Istanbul,15029200,41.01384,28.949659999999998,Istanbul
+TR,Turkey,Asia,Ankara,82319724,785350,7200,Parliamentary republic,Turkish Lira,16.3,5.4,Ankara,5445000,39.91987,32.85427,Ankara
+TR,Turkey,Asia,Ankara,82319724,785350,7200,Parliamentary republic,Turkish Lira,16.3,5.4,Izmir,4273700,38.412729999999996,27.138379999999998,Izmir
+TR,Turkey,Asia,Ankara,82319724,785350,7200,Parliamentary republic,Turkish Lira,16.3,5.4,Bursa,1800300,40.19266,29.08403,Bursa
+TR,Turkey,Asia,Ankara,82319724,785350,7200,Parliamentary republic,Turkish Lira,16.3,5.4,Adana,1753300,37.001670000000004,35.32889,Adana
+TR,Turkey,Asia,Ankara,82319724,785350,7200,Parliamentary republic,Turkish Lira,16.3,5.4,Gaziantep,1556400,37.05944,37.3825,Gaziantep
+TR,Turkey,Asia,Ankara,82319724,785350,7200,Parliamentary republic,Turkish Lira,16.3,5.4,Konya,1174500,37.87135,32.48464,Konya
+TR,Turkey,Asia,Ankara,82319724,785350,7200,Parliamentary republic,Turkish Lira,16.3,5.4,Antalya,1068100,36.908120000000004,30.695559999999997,Antalya
+UG,Uganda,Africa,Kampala,42723139,241550,0,Presidential republic,Ugandan Schilling,38.9,6.8,Kampala,1507100,0.31628,32.582190000000004,Central Region
+UA,Ukraine,Europe,Kiev,44622516,603550,2782,Semi-presidential republic,Hrywnja,9.4,14.5,Kiev,2900900,50.45466,30.5238,Kyiv City
+UA,Ukraine,Europe,Kiev,44622516,603550,2782,Semi-presidential republic,Hrywnja,9.4,14.5,Kharkiv,1430900,49.98081,36.252720000000004,Kharkiv
+UA,Ukraine,Europe,Kiev,44622516,603550,2782,Semi-presidential republic,Hrywnja,9.4,14.5,Odessa,1016500,46.477470000000004,30.73262,Odessa
+HU,Hungary,Europe,Budapest,9768785,93030,0,Parliamentary republic,Hungarian Forint,9.7,13.5,Budapest,1759400,47.49801,19.03991,Budapest
+UY,Uruguay,South America,Montevideo,3449299,176220,660,Presidential republic,Uruguay Peso,14.0,9.5,Montevideo,1305100,-34.90328,-56.188159999999996,Montevideo
+UZ,Uzbekistan,Asia,Tashkent,32955400,447400,0,Presidential republic,Uzbekistan Sum,22.1,5.0,Tashkent,2371300,41.26465,69.21627,Toshkent Shahri
+VE,Venezuela,South America,Caracas,28870195,912050,2800,Federal presidential republic,Bolívar fuerte,18.2,6.8,Caracas,1943900,10.488010000000001,-66.87919000000001,Capital
+VE,Venezuela,South America,Caracas,28870195,912050,2800,Federal presidential republic,Bolívar fuerte,18.2,6.8,Maracaibo,1898800,10.63167,-71.64056,Zulia
+AE,United Arab Emirates,Asia,Abu Dhabi,9630959,83600,1318,Federation of autonomous monarchies,UAE Dirham,10.5,1.4,Dubai,3137500,25.0657,55.17128,Dubai
+AE,United Arab Emirates,Asia,Abu Dhabi,9630959,83600,1318,Federation of autonomous monarchies,UAE Dirham,10.5,1.4,Abu Dhabi,1145000,24.46667,54.36666999999999,Abu Dhabi
+US,United States,North America,"Washington, D.C.",327167434,9831510,19924,Federal presidential republic,US Dollar,11.8,8.5,New York City,8622700,40.71427,-74.00596999999999,New York
+US,United States,North America,"Washington, D.C.",327167434,9831510,19924,Federal presidential republic,US Dollar,11.8,8.5,Los Angeles,3976300,34.05223,-118.24368,California
+US,United States,North America,"Washington, D.C.",327167434,9831510,19924,Federal presidential republic,US Dollar,11.8,8.5,Chicago,2705000,41.85003,-87.65005,Illinois
+US,United States,North America,"Washington, D.C.",327167434,9831510,19924,Federal presidential republic,US Dollar,11.8,8.5,Houston,2303500,29.763279999999998,-95.36327,Texas
+US,United States,North America,"Washington, D.C.",327167434,9831510,19924,Federal presidential republic,US Dollar,11.8,8.5,Phoenix,1626100,33.44838,-112.07404,Arizona
+US,United States,North America,"Washington, D.C.",327167434,9831510,19924,Federal presidential republic,US Dollar,11.8,8.5,Philadelphia,1567900,39.952329999999996,-75.16379,Pennsylvania
+US,United States,North America,"Washington, D.C.",327167434,9831510,19924,Federal presidential republic,US Dollar,11.8,8.5,San Antonio,1492500,29.424120000000002,-98.49363000000001,Texas
+US,United States,North America,"Washington, D.C.",327167434,9831510,19924,Federal presidential republic,US Dollar,11.8,8.5,San Diego,1406600,32.71533,-117.15726000000001,California
+US,United States,North America,"Washington, D.C.",327167434,9831510,19924,Federal presidential republic,US Dollar,11.8,8.5,Dallas,1317900,32.78306,-96.80667,Texas
+US,United States,North America,"Washington, D.C.",327167434,9831510,19924,Federal presidential republic,US Dollar,11.8,8.5,San Jose,1025400,37.33939,-121.89496000000001,California
+GB,United Kingdom,Europe,London,66488991,243610,12429,Parliamentary constitutional monarchy,Sterling Pound,11.4,9.2,London,8673700,51.50853,-0.12574000000000002,England
+GB,United Kingdom,Europe,London,66488991,243610,12429,Parliamentary constitutional monarchy,Sterling Pound,11.4,9.2,Birmingham,1111300,52.48141999999999,-1.89983,England
+VN,Vietnam,Asia,Hanoi,95540395,331230,3444,Republic (communist one-party system),Dong,17.0,6.3,Ho Chi Minh City,8247800,10.82302,106.62965,Ho Chi Minh City
+VN,Vietnam,Asia,Hanoi,95540395,331230,3444,Republic (communist one-party system),Dong,17.0,6.3,Hanoi,2316800,21.0245,105.84116999999999,Ha Noi
