@@ -3,41 +3,59 @@
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
 
-CREATE TABLE "Country" (
+CREATE TABLE "countries_transformed" (
     "country_code" char(2)   NOT NULL,
-    "country_en" char(50)   NOT NULL,
-    "country_de" char(50)   NOT NULL,
-    "continent" char(20)   NOT NULL,
-    "capital" char(30)   NOT NULL,
-    "population" integer   NOT NULL,
+    "country_name" varchar(50)   NOT NULL,
+    "continent" varchar(20)   NOT NULL,
+    "capital" varchar(30)   NOT NULL,
+    "country_population" integer   NOT NULL,
     "area" integer   NOT NULL,
     "coastline" integer   NOT NULL,
-    "government_form" char(90)   NOT NULL,
-    "currency" char(40)   NOT NULL,
-    "currency_code" char(3)   NOT NULL,
-    "dialing_prefix" char(12)   NOT NULL,
-    "birthrate" numeric(2,1)   NOT NULL,
-    "deathrate" numeric(2,1)   NOT NULL,
-    "url" char(100)   NOT NULL,
-    CONSTRAINT "pk_Country" PRIMARY KEY (
+    "government" varchar(90)   NOT NULL,
+    "currency" varchar(40)   NOT NULL,
+    "birthrate" float   NOT NULL,
+    "deathrate" float   NOT NULL,
+    CONSTRAINT "pk_countries_transformed" PRIMARY KEY (
         "country_code"
      )
 );
 
-CREATE TABLE "City" (
-    "city_en" char(30)   NOT NULL,
+CREATE TABLE "megacities_transformed" (
+    "city_name" char(30)   NOT NULL,
     "country_code" char(2)   NOT NULL,
-    "city_de" char(30)   NOT NULL,
-    "country_en" char(50)   NOT NULL,
-    "population" integer   NOT NULL,
-    "latitude" numeric(3,6)   NOT NULL,
-    "longitude" numeric(3,6)   NOT NULL,
-    "region" char(40)   NOT NULL,
-    CONSTRAINT "pk_City" PRIMARY KEY (
-        "city_en","country_code"
+    "city_population" integer   NOT NULL,
+    "longitude" float   NOT NULL,
+    "latitude" float   NOT NULL,
+    "region" varchar(40)   NOT NULL,
+    CONSTRAINT "pk_megacities_transformed" PRIMARY KEY (
+        "city_name","country_code"
      )
 );
 
-ALTER TABLE "City" ADD CONSTRAINT "fk_City_country_code" FOREIGN KEY("country_code")
-REFERENCES "Country" ("country_code");
+CREATE TABLE "merged" (
+    "country_code" char(2)   NOT NULL,
+    "continent" varchar(20)   NOT NULL,
+    "capital" varchar(30)   NOT NULL,
+    "country_population" integer   NOT NULL,
+    "area" integer   NOT NULL,
+    "coastline" integer   NOT NULL,
+    "government" varchar(90)   NOT NULL,
+    "currency" varchar(40)   NOT NULL,
+    "birthrate" float   NOT NULL,
+    "deathrate" float   NOT NULL,
+    "city_name" char(30)   NOT NULL,
+    "city_population" integer   NOT NULL,
+    "latitude" float   NOT NULL,
+    "longitude" float   NOT NULL,
+    "region" varchar(40)   NOT NULL
+);
+
+ALTER TABLE "megacities_transformed" ADD CONSTRAINT "fk_megacities_transformed_country_code" FOREIGN KEY("country_code")
+REFERENCES "countries_transformed" ("country_code");
+
+ALTER TABLE "merged" ADD CONSTRAINT "fk_merged_country_code" FOREIGN KEY("country_code")
+REFERENCES "countries_transformed" ("country_code");
+
+ALTER TABLE "merged" ADD CONSTRAINT "fk_merged_city_name" FOREIGN KEY("city_name")
+REFERENCES "megacities_transformed" ("city_name");
 
